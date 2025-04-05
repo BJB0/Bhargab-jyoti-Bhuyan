@@ -1,7 +1,7 @@
 ![github-header-image (5)](https://github.com/user-attachments/assets/951c0bdd-193f-4a4a-b678-515e0c1590ef)
 
 
-🎓 Undergraduate in Computer Science and Engineering at Tezpur University.
+🎓 Undergraduate in Computer Science and Engineering at Tezpur University, class of 2026.
 
 🤖 Interested in Generative AI, Machine Learning, Deep Learning, and LLMs and diving deeper into Data Science and ANalytics.
 
