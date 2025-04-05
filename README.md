@@ -1,4 +1,5 @@
-![github-header-image (5)](https://github.com/user-attachments/assets/951c0bdd-193f-4a4a-b678-515e0c1590ef)
+![github-header-image (6)](https://github.com/user-attachments/assets/e7415d7a-6e12-44f8-b22e-d755d667885c)
+
 
 
 🎓 Undergraduate in Computer Science and Engineering at Tezpur University, class of 2026.
