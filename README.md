@@ -56,30 +56,10 @@
 
 ---
 
-### ⚡ Socials:
-[![X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/@BhargabjyotiBh8)
-[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/bhargab-jb)
-[![Instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/bhargab_jb)
-
----
-
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&locale=en)
-
-![](https://nirzak-streak-stats.vercel.app/?user=BJB0&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=BJB0&show_icons=true&locale=en&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BJB0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=BJB0&show_icons=true&locale=en&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BJB0&show_icons=true&locale=en&layout=compact&theme=transparent)
 
 ---
 
@@ -92,5 +72,11 @@
 </picture>
 
 ---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/bhargab-jb)
+[![X](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/@BhargabjyotiBh8)
+[![Instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/bhargab_jb)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=BJB0&style=flat-square&color=blue)
